@@ -1,0 +1,9 @@
+
+.box {
+    width: 490px !important;
+    margin: 0 auto;
+}
+
+.date-field {
+    max-width: 500px !important;
+}
